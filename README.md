@@ -16,7 +16,17 @@ Reporting Tools: SQL Server Reporting Services (SSRS)
 
 Query Language: SQL
 
-Project Components
+Division into tasks (it was required due to the fact that it was an university project):
+Task1 - Establishing buisness goals and processes as well as data sources
+Task2 - Building database ( first source ) and filling it with generated data as well as excel sheet (second source) and filling it with generated data
+Task3 - Developing document describing data warehouse according to the provided schema
+Task4 - Establishing cube in MSVS
+Task5 - Establishing ETL process in MSVS
+Task6 - Conducting queries for the warehouse in MS SQL Server 2019 
+Task7 - Report about the efficiency of the warehouse, comparing MOLAP, ROLAP and HOLAP
+Task8 - Visualizing KPIs and queries using Power BI
+
+Project Components:
 
 1. Data Sources
 
